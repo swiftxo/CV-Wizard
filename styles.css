@@ -1,0 +1,30 @@
+body {
+    background-color: #141E32;
+    color: #FFFFFF;
+}
+
+.sidebar .sidebar-content {
+    background-color: #0F1726;
+    color: #A3A9B7;
+}
+
+.stProgress > div > div > div > div {
+    background-color: #FFD700;
+}
+
+.stButton > button {
+    background-color: #1E90FF;
+    color: white;
+}
+
+.stButton > button:hover {
+    background-color: #1C86EE;
+}
+
+h4 {
+    color: #FFD700;
+}
+
+h2, h3, .stText {
+    color: #A3A9B7;
+}

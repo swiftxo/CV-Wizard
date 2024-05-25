@@ -112,7 +112,7 @@ def run():
     if choice == 'Normal User':
         pdf_file = st.file_uploader("Choose your Resume", type=["pdf"])
         if pdf_file is not None:
-            save_image_path = './Uploaded_Resumes/' + pdf_file.name
+            save_image_path = './uploaded_resumes/' + pdf_file.name
             with open(save_image_path, "wb") as f:
                 f.write(pdf_file.getbuffer())
             show_pdf(save_image_path)

@@ -2,7 +2,7 @@
 <br/>
 <div align="center">
 <a href="https://github.com/swiftxo/CV-Wizard">
-<img src="https://i.ibb.co/5W2M1KP/CV-Wizard-Logo-Transparent.png" alt="Product Screenshot">
+<img src="https://d32ws732dcy0rn.cloudfront.net/j8yfnm%2Fpreview%2F58163758%2Fmain_large.png?response-content-disposition=inline%3Bfilename%3D%22main_large.png%22%3B&response-content-type=image%2Fpng&Expires=1716621419&Signature=IsntSFG95yDF5E44dbEbPokC3AfMeL6Bg-409udL0snhRY1vhLZ8wybF7TC95gUOGDsexVMBa2yUJQdkgYyqwtBfyvpbAXsX3ru7MWSOKtrk1Sfnoa9Od~SYCprQ8NQFTxjR0lmtP94PiwCIz5oB9DACdPpM4VXzQuH1mYx4RSs-ttd834BdeYzgObqE0NXA7udTb62rlXTGkfZetyuGVF~3JmlMMVkLZbrgWYb9nzg0FlDm6ie40ZVh9GXImayB3u9KS-G-Xj1slmQ0AIsXz9Fe4Gj4EsCgOI8AIdwawpL1y~6SwFyoQiNTnhcBcyqUea~w2AIu4DDJGxPA6mrrZA__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" alt="Product Screenshot">
 
 </a>
 <h3 align="center">CV Wizard: An AI Resume Screener</h3>
@@ -21,36 +21,6 @@ An AI powered resume screener that utilizes SPACY for Natural language processin
 
 CV Wizard is an AI-powered web application designed to analyze resumes, provide detailed feedback, and generate personalized recommendations for improving job prospects. The interface is intuitive and user-friendly, ensuring a seamless user experience.
  ### Built With
-
-
-Sure, here's a README file following the specified format for your project "CV Wizard":
-
-markdown
-Copy code
-<br/>
-<div align="center">
-<a href="https://github.com/yourusername/cvwizard">
-<img src="https://i.ibb.co/qCNh7qW/image.png" alt="Product Screenshot">
-</a>
-<h3 align="center">CV Wizard: Smart Resume Analyser</h3>
-<p align="center">
-Everything you need to know about the building process for this site! Still a WIP , and has not been deployed yet
-<br/>
-<br/>
-<a href="https://github.com/yourusername/cvwizard"><strong>Explore the docs »</strong></a>
-<br/>
-<br/>
-<a href="https://github.com/yourusername/cvwizard/issues/new?labels=bug&template=bug-report---.md">Report Bug .</a>
-<a href="https://github.com/yourusername/cvwizard/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
-</p>
-</div>
-
-## About The Project
-<img src="https://i.ibb.co/qCNh7qW/image.png" alt="Product Screenshot">
-
-CV Wizard is an AI-powered web application designed to analyze resumes, provide detailed feedback, and generate personalized recommendations for improving job prospects. The interface is intuitive and user-friendly, ensuring a seamless user experience.
-
-### Built With
 
 - [Python](https://www.python.org/)
 - [SpaCy](https://spacy.io/)

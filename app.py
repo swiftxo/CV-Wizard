@@ -174,7 +174,7 @@ def run():
 
                     elif i.lower() in android_keyword:
                         reco_field = 'Android Development'
-                        st.success("** Our analysis says you are looking for Android App Development Jobs **")
+                        st.success("** Your resume indicates that you maybe looking for jobs in Android Developments **")
                         recommended_skills = ['Android', 'Android development', 'Flutter', 'Kotlin', 'XML', 'Java', 'Kivy', 'GIT', 'SDK', 'SQLite']
                         recommended_keywords = st_tags(label='### Recommended skills for you.', text='Recommended skills generated from System', value=recommended_skills, key='4')
                         st.markdown('''<h4 style='text-align: left; color: #FFD700;'>Adding this skills to resume will boost🚀 the chances of getting a Job💼</h4>''', unsafe_allow_html=True)
